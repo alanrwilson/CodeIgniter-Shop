@@ -1,0 +1,40 @@
+body {
+	font-family: arial;
+
+}
+
+#container {
+
+	width: 1000px;
+	background-color: #fff;
+	border: 1px solid #000;
+	overflow: auto;
+
+
+}
+
+h1 {
+
+	font-size: 24px;
+
+}
+
+h2 {
+	font-size: 18px;
+
+}
+
+#leftside {
+	
+	width: 700px;
+	float: left;
+	position: relative;
+}
+
+#rightside {
+	
+	width: 280px;
+	float: left;
+	position: relative;
+
+}
